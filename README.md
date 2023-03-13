@@ -1,2 +1,4 @@
 # dist
- Vue training : shop web page
+ Vue training : quizz app
+ 
+ Create and play
