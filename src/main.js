@@ -60,6 +60,11 @@ const routes = [
             }
         }
     },
+    {
+        path: '/:pathMatch(.*)*',
+        component: Home,
+        name: "home",
+    },
 ];
 
 export const router = createRouter({
